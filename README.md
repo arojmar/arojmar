@@ -4,8 +4,8 @@
 #### I'm a QA Automation Engineer based in Malaga, Spain.
 
 - 🏢 I'm currently working full-time at **Merkle Inc.**
-- ⚙️ I use daily: `.java`, `.json` and `.cucumber` and sometimes `.js`, `.sql`, `.html`, `.yml` and `.sql`
-- 🌱 Learning more about and studying: **Javascript, NodeJs, Angular 10, Cypress**
+- ⚙️ I use daily: `.java`, `.json` and `.cucumber` and sometimes `.js`, `.sql`, `.html`, `.yml` and `.graphql`
+- 🌱 Learning more about and studying: **Javascript, NodeJs, Karate, Cypress**
 - 💬 Ping me about: **QA automation**
 
 - 💜 Interests: trips to beach paradises, my cat ´Sebastian´ and any kind of gadget                            
